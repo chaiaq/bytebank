@@ -1,4 +1,4 @@
-<h1>Mentoria Cloud Girls #6</h1>
+<h1>Mentoria Cloud Girls #7</h1>
 
 <p>Repositório para arquivos do curso da Alura:</p>
 <p><strong>* Java OO: entendendo a Orientação a Objetos</p></strong>
