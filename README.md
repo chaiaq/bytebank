@@ -2,7 +2,6 @@
 
 <p>Repositório para arquivos dos cursos da Alura:</p>
 <p><strong>* Java OO: entendendo a Orientação a Objetos</p></strong>
-<p><strong>* Java: aplicando a Orientação a Objetos</p></strong>
 <p><strong>* Java Exceções: aprenda a criar, lançar e controlar exceções</p></strong>
 <p><strong>* Java e java.lang: programe com a classe Object e String</p></strong>
 
